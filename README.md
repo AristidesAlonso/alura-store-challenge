@@ -71,7 +71,7 @@ alura-store-challenge/
 - Envío barato beneficia al cliente, no a la rentabilidad
 
 ## 👨‍💻 Autor
-- **Nombre:** [Tu nombre]
+- **Nombre:** [Aristides Alonso]
 - **Proyecto:** Challenge ONE Data Science - Alura Store
 
 ## 📝 Licencia
