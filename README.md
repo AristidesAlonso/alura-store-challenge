@@ -79,5 +79,5 @@ Este proyecto fue creado con fines educativos como parte del programa Oracle Nex
 
 ## 🔗 Enlaces Útiles
 - [Repositorio base del desafío](https://github.com/alura-es-cursos/challenge1-data-science-latam)
-- [Tablero Trello del proyecto](URL-de-tu-tablero)
+- [Tablero Trello del proyecto](https://trello.com/b/38g2ykhd/alura-store-latam))
 - [Google Colab](https://colab.research.google.com/)
